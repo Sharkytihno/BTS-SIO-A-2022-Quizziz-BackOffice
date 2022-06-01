@@ -5,4 +5,4 @@ name: 'quizziz'
 type: 'php:8.0'
 
 relationships:
-  database: "db:mysql"
+  database: "db:mariadb"
